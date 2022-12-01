@@ -5,8 +5,8 @@
 
 ### Разовая первичная настройка
 
-Указать username и email, которые будут использоваться по умолчанию для указания информации об авторе изменений
-`git config --global user.name 'your name'`
+Указать username и email, которые будут использоваться по умолчанию для указания информации об авторе изменений  
+`git config --global user.name 'your name'`  
 `git config --global user.email "your@mail"`
 
 ### Создать/получить репозиторий
